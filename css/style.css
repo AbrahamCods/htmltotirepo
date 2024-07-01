@@ -26,3 +26,6 @@ nav section #info{ float: right; width: 600px;}
 #articulos section article{ display: inline-block; width: 300px; height: 200px;}
 #articulos section article img{ width: 100%;}
 #articulos section article a{color: white;padding: 5px; float: center; font: 19px Verdana;}
+
+footer{background: grey;height: 60px;}
+footer p{ color: white ; font: lighter 20px Verdana; text-align: center; padding: 17px;}
