@@ -10,3 +10,11 @@ header section h1{font:bold 30px Verdana; color: white; padding: 10px 5px 5px 50
 header section #menu{ width: 300px;float: right; margin-top: -30px;}
 
 header section a{ font: lighter 18px Verdana; padding: 10px; color: white;}
+
+nav{height: 400px; background-color: #81BEF7;}
+
+nav section h2{ font: 30px Verdana;}
+
+nav section img{ width: 300px;}
+
+nav section #info{ float: right; width: 600px;}
