@@ -18,3 +18,11 @@ nav section h2{ font: 30px Verdana;}
 nav section img{ width: 300px;}
 
 nav section #info{ float: right; width: 600px;}
+
+#articulos{width: 100%; background:#81BEF7;}
+#articulos h2{ font: 30px Verdana; color: white; padding: 10px;}
+
+#articulos section{width: 960px;}
+#articulos section article{ display: inline-block; width: 300px; height: 200px;}
+#articulos section article img{ width: 100%;}
+#articulos section article a{color: white;padding: 5px; float: center; font: 19px Verdana;}
